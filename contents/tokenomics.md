@@ -6,6 +6,7 @@ UNITE DAO aims to become a League of Protocols, looking for the creation of a bl
 The second main goal is to achieve its financial independence for the long term. That means to be able to create a sustainable revenue income to continuously bankroll the creation of standards.
 
 Both goals are based on FIDE, the native token of UNITE DAO. Its main purpose can be defined in 2 core concepts:
+
 -Giving access and voting Power to the community members, through staking FIDE
 -Sustainable value growth, catching the value created and being used as value accumulator.
 
